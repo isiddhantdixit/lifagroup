@@ -1,7 +1,7 @@
 # Lifa Group
 > **“Ensuring Life. Building Lifestyle.”**
 
-A high-end multi-page corporate web application for **Lifa Group** and its educational arm **LifaEducare Pvt. Ltd.** (associated with *Aakash Institute, Hajipur* and *St. Mary's P School, Sonpur*).
+A high-end multi-page corporate web application for **Lifa Group** and its educational arm **LifaEducare Pvt. Ltd.** (associated with *Aakash Institute, Hajipur* and *St. Mary's P School, Sonpur*). lifagroup.in
 
 Built with **React Router v6 + Three.js (3D WebGL Background) + Framer Motion + Lenis Smooth Scroll + TypeScript**, featuring deep luxury 3D glassmorphism and real multi-page routing.
 

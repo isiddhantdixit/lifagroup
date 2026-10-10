@@ -1,4 +1,4 @@
-# Lifa Group — 3D Corporate Web Platform
+# Lifa Group
 > **“Ensuring Life. Building Lifestyle.”**
 
 A high-end multi-page corporate web application for **Lifa Group** and its educational arm **LifaEducare Pvt. Ltd.** (associated with *Aakash Institute, Hajipur* and *St. Mary's P School, Sonpur*).

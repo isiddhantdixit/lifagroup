@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 60" width="280" height="60" fill="none">
+  <defs>
+    <linearGradient id="lifaGold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#EAD1A6"/>
+      <stop offset="50%" stop-color="#C5A880"/>
+      <stop offset="100%" stop-color="#9C7E52"/>
+    </linearGradient>
+  </defs>
+  <!-- Geometric Emblem -->
+  <g transform="translate(4, 6)">
+    <rect width="48" height="48" rx="10" fill="#0E1A2F" stroke="url(#lifaGold)" stroke-width="1.2" stroke-opacity="0.4"/>
+    <path d="M16 14 V34 H32" stroke="url(#lifaGold)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M23 24 H32 V34" stroke="url(#lifaGold)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.6"/>
+    <circle cx="16" cy="14" r="1.8" fill="#EAD1A6"/>
+    <circle cx="32" cy="34" r="1.8" fill="#EAD1A6"/>
+  </g>
+  <!-- Typography -->
+  <g transform="translate(64, 18)">
+    <text x="0" y="16" font-family="'Cinzel', 'Playfair Display', 'Times New Roman', serif" font-size="20" font-weight="600" letter-spacing="4" fill="#FFFFFF">LIFA GROUP</text>
+    <text x="1" y="29" font-family="'Plus Jakarta Sans', 'Inter', sans-serif" font-size="8" font-weight="500" letter-spacing="3" fill="#C5A880" opacity="0.9">ENSURING LIFE · BUILDING LIFESTYLE</text>
+  </g>
+</svg>
